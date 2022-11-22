@@ -3,7 +3,9 @@
 ### Our anaylsis is broken down into 4 points:
 - It's important to understand logical repercussions of retirement and what data is required to understand said impact. For the purposes of our point we will assume 2 things: firstly, that all active employees fulfill a needed role; secondly that any employee can be promoted or demoted to any other employee's role. 
 Given the above, let's say we have 3 employees A, B and C who have 3 increasing levels of seniority senior, manager and director. If employee C retires, then employee B can fill the director position and employee A can fill the manager position. However, the senior position will be vacant. Therefore, for every person leaving the company you'd need to hire a replacement. If there are 72,458 employees that will retire, then you'll need to hire those back.
-To ensure each position is filled we would need to know whether there exists a candidate which can be hired to fulfill the senior position. But we do not have data on potential applicants, therefore we cannot fully understand the impact of retiring employees. For the follow on analyses we are no longer making the 2 assumptions above.
+But we do not have data on potential applicants, therefore we cannot fully understand the impact of retiring employees. 
+
+For the follow on analyses we are no longer making the 2 assumptions above.
 
 (The 2 points below are meant to illustrate that employees born between 1952 and 1955 are over represented within the 1952-1965 range both in terms of population and management positions)
 
