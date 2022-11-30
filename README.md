@@ -1,6 +1,6 @@
 # Databases_Deliverable
 ## This is an analysis on the impact of the upcoming baby boomer retirement wave.
-### Our anaylsis is broken down into 4 points:
+### Our analysis is broken down into 4 points:
 - It's important to understand logical repercussions of retirement and what data is required to understand said impact. For the purposes of our point we will assume 2 things: firstly, that all active employees fulfill a needed role; secondly that any employee can be promoted or demoted to any other employee's role. 
 Given the above, let's say we have 3 employees A, B and C who have 3 increasing levels of seniority senior, manager and director. If employee C retires, then employee B can fill the director position and employee A can fill the manager position. However, the senior position will be vacant. Therefore, for every person leaving the company you'd need to hire a replacement. If there are 72,458 employees that will retire, then you'll need to hire those back.
 But we do not have data on potential applicants, therefore we cannot fully understand the impact of retiring employees. 
